@@ -20,12 +20,12 @@
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="82"/>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="108"/>
         <source>Sending Report</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Enviando reporte</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="126"/>
         <source>Check Location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verificar ubicación</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="179"/>
